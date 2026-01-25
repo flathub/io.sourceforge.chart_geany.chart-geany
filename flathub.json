@@ -1,3 +1,4 @@
 {
-  "only-arches": ["x86_64"]
+  "only-arches": ["x86_64"],
+  "end-of-life": "Char Geany has reached EOL and is now retired. Thanks to everyone who used and supported the project by any means."
 }
